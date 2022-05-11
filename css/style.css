@@ -570,7 +570,7 @@ button {
 }
 
 
-.photog .read_more:hover {background: #ed1c24; color: #fff;}
+.photog .read_more:hover {background: #ed1c24; color: rgb(15, 185, 80);}
 .slider_main .carousel-item {
      height: 100%;
      width: 100%;
@@ -581,7 +581,7 @@ button {
      width:80px;
      height: 80px;
      background-color: #ed1c24;
-     color: #fff;
+     color: rgb(77, 216, 240);
      font-size: 35px;
      opacity: 1;
      top: 50%;
@@ -644,7 +644,7 @@ button {
     position: absolute;
     content: "";
     bottom: 0px;
-    background: #ed1c24;
+    background: #35ccab;
     width: 93px;
     height: 11px;
     left: 0;
@@ -765,7 +765,7 @@ button {
 .owl-carousel .owl-nav button.owl-prev {
      width: 90px;
      height: 90px;
-     background-color: #ed1c24 !important;
+     background-color: #ce6b0f !important;
      color: #fff !important;
      font-size: 55px !important;
      line-height: 30px !important;
@@ -1197,8 +1197,8 @@ ul.top_infomation li i:hover {
     
 }
 .inner_page .about {
-    margin-top: 145px;
-    margin-bottom: 80px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 .inner_page .doctors { padding-top: 140px;  padding-bottom: 50px;}
