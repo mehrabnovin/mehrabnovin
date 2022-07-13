@@ -321,7 +321,7 @@ button {
      width: 100%;
      z-index: 9999999;
      height: 87px;
-     background:#ed242e;
+     background:#A7BEAE;
 }
 
 
@@ -580,8 +580,8 @@ button {
 #banner1 .carousel-control-next {
      width:80px;
      height: 80px;
-     background-color: #ed1c24;
-     color: rgb(77, 216, 240);
+     background-color: #8AAAE5;
+     color: #ADD8E6;
      font-size: 35px;
      opacity: 1;
      top: 50%;
@@ -603,8 +603,8 @@ button {
 #banner1 .carousel-control-next:hover,
 #banner1 .carousel-control-prev:focus,
 #banner1 .carousel-control-prev:hover {
-     background-color: #fff;
-     color: #ed1c24;
+     background-color: #EA738DFF;
+     color: #990011FF;
 }
 
 
